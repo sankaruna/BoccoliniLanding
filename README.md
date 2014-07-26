@@ -1,3 +1,3 @@
 # Shamelessly copied from Made in Days
 
-Based on [website-base](https://github.com/marekhrabe/madeindays)
+Based on Marekh Rabe's [Made in Days](https://github.com/marekhrabe/madeindays)
